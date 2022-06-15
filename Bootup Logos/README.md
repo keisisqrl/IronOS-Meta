@@ -46,6 +46,7 @@ This just overwrites individual bytes in the output buffer.
 |![TS80P](https://github.com/Ralim/IronOS-Meta/blob/main/Bootup%20Logos/Images/TS80P.png)|TS80P.png|lefty-version available|
 |![Alt text](https://github.com/Ralim/IronOS-Meta/blob/main/Bootup%20Logos/Images/wh_40k.png)|wh_40k.png||
 |![Alt text](https://github.com/Ralim/IronOS-Meta/blob/main/Bootup%20Logos/Images/wwii_kilroy.png)|wwii_kilroy.png||
+|![horsey](https://raw.githubusercontent.com/keisisqrl/IronOS-Meta/horsey/Bootup%20Logos/Images/horsey.png)|horsey.png||
 
 **Animated logos**
 |Logo \*          |Filename       |Note   |
